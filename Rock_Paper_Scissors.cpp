@@ -1,5 +1,3 @@
-/* Silly Rock Paper Scissor program I wrote in my first year of programming. */
-
 #include <iostream>
 #include <string>
 
